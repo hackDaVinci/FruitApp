@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  en_name: MyString
+  description: MyString
+  images: 
+  ordinal: 1
+
+two:
+  name: MyString
+  en_name: MyString
+  description: MyString
+  images: 
+  ordinal: 1
